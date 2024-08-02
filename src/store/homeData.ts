@@ -10,7 +10,7 @@ export const navList = {
 // Home - Gallery List
 export const galleryList = [
   {
-    no: 1,
+    id: 1,
     alt: "Me speaking on stage at React Summit about the future of Next.js",
     src: "/images/home/summit.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
@@ -18,7 +18,7 @@ export const galleryList = [
     divClass: "relative h-40",
   },
   {
-    no: 2,
+    id: 2,
     alt: "Me standing on stage at Reactathon delivering the keynote",
     src: "/images/home/reactathon.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
@@ -26,7 +26,7 @@ export const galleryList = [
     divClass: "relative sm:row-span-2 row-span-1",
   },
   {
-    no: 3,
+    id: 3,
     alt: "Me and Guillermo Rauch on stage for Vercel Ship, answering questions from the Next.js community",
     src: "/images/home/ship.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
@@ -34,7 +34,7 @@ export const galleryList = [
     divClass: "relative",
   },
   {
-    no: 4,
+    id: 4,
     alt: "Me, Lydia, and Delba filming the Next.js Conf keynote",
     src: "/images/home/filming.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
@@ -42,7 +42,7 @@ export const galleryList = [
     divClass: "relative row-span-2",
   },
   {
-    no: 5,
+    id: 5,
     alt: "My badge on top of a pile of badges from a Vercel meetup we held",
     src: "/images/home/meetups.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
@@ -50,7 +50,7 @@ export const galleryList = [
     divClass: "relative row-span-2",
   },
   {
-    no: 6,
+    id: 6,
     alt: "Me standing on stage at SmashingConf giving a talk about my optimism for the web",
     src: "/images/home/smashing.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",

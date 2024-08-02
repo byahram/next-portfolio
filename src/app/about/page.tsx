@@ -5,7 +5,7 @@ import Image from "next/image";
 import summit from "/public/images/home/summit.jpg";
 import vercel from "/public/images/home/vercel.jpg";
 import ChannelLink from "@/components/common/ChannelLink";
-import { SkillsList, EduList, WorkList, CertList } from "@/store/about-data";
+import { SkillsList, EduList, WorkList, CertList } from "@/store/aboutData";
 
 export default function About() {
   const [activeTab, setActiveTab] = useState(1);
