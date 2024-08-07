@@ -1,3 +1,10 @@
+export const IntroList = {
+  photo: "/images/summit.jpg",
+  phone: "010-0000-0000",
+  email: "ahram0223@naver.com",
+  github: "https://github.com/byahram",
+};
+
 export const EduList = [
   {
     idx: 2,
@@ -164,8 +171,8 @@ export const CertList = [
   {
     idx: 5,
     name: "정보처리기사",
-    organized: "",
-    date: "예정",
+    organized: "한국산업인력공단",
+    date: "2024.09",
   },
   {
     idx: 4,
@@ -179,22 +186,22 @@ export const CertList = [
     organized: "한국산업인력공단",
     date: "2023.09",
   },
-  {
-    idx: 2,
-    name: "한국사능력검정시험 3급",
-    organized: "국사편찬위원해",
-    date: "2020.07",
-  },
-  {
-    idx: 1,
-    name: "워드프로세서 1급",
-    organized: "대한상공회의소",
-    date: "2020.05",
-  },
-  {
-    idx: 0,
-    name: "2종보통운전면허",
-    organized: "경찰청(운전면허시험관리단)",
-    date: "2019.01",
-  },
+  // {
+  //   idx: 2,
+  //   name: "한국사능력검정시험 3급",
+  //   organized: "국사편찬위원해",
+  //   date: "2020.07",
+  // },
+  // {
+  //   idx: 1,
+  //   name: "워드프로세서 1급",
+  //   organized: "대한상공회의소",
+  //   date: "2020.05",
+  // },
+  // {
+  //   idx: 0,
+  //   name: "2종보통운전면허",
+  //   organized: "경찰청(운전면허시험관리단)",
+  //   date: "2019.01",
+  // },
 ];

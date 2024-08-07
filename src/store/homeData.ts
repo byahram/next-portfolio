@@ -12,7 +12,7 @@ export const galleryList = [
   {
     id: 1,
     alt: "Me speaking on stage at React Summit about the future of Next.js",
-    src: "/images/home/summit.jpg",
+    src: "/images/summit.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover",
     divClass: "relative h-40",
@@ -20,7 +20,7 @@ export const galleryList = [
   {
     id: 2,
     alt: "Me standing on stage at Reactathon delivering the keynote",
-    src: "/images/home/reactathon.jpg",
+    src: "/images/reactathon.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover object-top sm:object-center",
     divClass: "relative sm:row-span-2 row-span-1",
@@ -28,7 +28,7 @@ export const galleryList = [
   {
     id: 3,
     alt: "Me and Guillermo Rauch on stage for Vercel Ship, answering questions from the Next.js community",
-    src: "/images/home/ship.jpg",
+    src: "/images/ship.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover",
     divClass: "relative",
@@ -36,7 +36,7 @@ export const galleryList = [
   {
     id: 4,
     alt: "Me, Lydia, and Delba filming the Next.js Conf keynote",
-    src: "/images/home/filming.jpg",
+    src: "/images/filming.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover sm:object-center",
     divClass: "relative row-span-2",
@@ -44,7 +44,7 @@ export const galleryList = [
   {
     id: 5,
     alt: "My badge on top of a pile of badges from a Vercel meetup we held",
-    src: "/images/home/meetups.jpg",
+    src: "/images/meetups.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover",
     divClass: "relative row-span-2",
@@ -52,7 +52,7 @@ export const galleryList = [
   {
     id: 6,
     alt: "Me standing on stage at SmashingConf giving a talk about my optimism for the web",
-    src: "/images/home/smashing.jpg",
+    src: "/images/smashing.jpg",
     sizes: "(max-width: 768px) 213px, 33vw",
     imgClass: "rounded-lg object-cover",
     divClass: "relative h-40",
